@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\CoroutineExample\CoroutineExample\bin\Debug\net6.0\CoroutineExample.exe
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\CoroutineExample\CoroutineExample\bin\Debug\net6.0\CoroutineExample.deps.json
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\CoroutineExample\CoroutineExample\bin\Debug\net6.0\CoroutineExample.runtimeconfig.json
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\CoroutineExample\CoroutineExample\bin\Debug\net6.0\CoroutineExample.dll
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\CoroutineExample\CoroutineExample\bin\Debug\net6.0\CoroutineExample.pdb
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\CoroutineExample\CoroutineExample\obj\Debug\net6.0\CoroutineExample.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\CoroutineExample\CoroutineExample\obj\Debug\net6.0\CoroutineExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\CoroutineExample\CoroutineExample\obj\Debug\net6.0\CoroutineExample.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\CoroutineExample\CoroutineExample\obj\Debug\net6.0\CoroutineExample.AssemblyInfo.cs
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\CoroutineExample\CoroutineExample\obj\Debug\net6.0\CoroutineExample.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\CoroutineExample\CoroutineExample\obj\Debug\net6.0\CoroutineExample.dll
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\CoroutineExample\CoroutineExample\obj\Debug\net6.0\refint\CoroutineExample.dll
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\CoroutineExample\CoroutineExample\obj\Debug\net6.0\CoroutineExample.pdb
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\CoroutineExample\CoroutineExample\obj\Debug\net6.0\CoroutineExample.genruntimeconfig.cache
+C:\Users\Master\Desktop\유한\기타등등\이력서\원소은 포트폴리오\포트폴리오 프로젝트\Learning\CoroutineExample\CoroutineExample\obj\Debug\net6.0\ref\CoroutineExample.dll
