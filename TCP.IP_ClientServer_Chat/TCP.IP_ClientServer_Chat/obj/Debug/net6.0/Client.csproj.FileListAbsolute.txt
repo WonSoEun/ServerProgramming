@@ -1,0 +1,15 @@
+D:\PortFolio\ServerProgramming\TCP.IP_ClientServer_Chat\TCP.IP_ClientServer_Chat\bin\Debug\net6.0\Client.exe
+D:\PortFolio\ServerProgramming\TCP.IP_ClientServer_Chat\TCP.IP_ClientServer_Chat\bin\Debug\net6.0\Client.deps.json
+D:\PortFolio\ServerProgramming\TCP.IP_ClientServer_Chat\TCP.IP_ClientServer_Chat\bin\Debug\net6.0\Client.runtimeconfig.json
+D:\PortFolio\ServerProgramming\TCP.IP_ClientServer_Chat\TCP.IP_ClientServer_Chat\bin\Debug\net6.0\Client.dll
+D:\PortFolio\ServerProgramming\TCP.IP_ClientServer_Chat\TCP.IP_ClientServer_Chat\bin\Debug\net6.0\Client.pdb
+D:\PortFolio\ServerProgramming\TCP.IP_ClientServer_Chat\TCP.IP_ClientServer_Chat\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+D:\PortFolio\ServerProgramming\TCP.IP_ClientServer_Chat\TCP.IP_ClientServer_Chat\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\PortFolio\ServerProgramming\TCP.IP_ClientServer_Chat\TCP.IP_ClientServer_Chat\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+D:\PortFolio\ServerProgramming\TCP.IP_ClientServer_Chat\TCP.IP_ClientServer_Chat\obj\Debug\net6.0\Client.AssemblyInfo.cs
+D:\PortFolio\ServerProgramming\TCP.IP_ClientServer_Chat\TCP.IP_ClientServer_Chat\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+D:\PortFolio\ServerProgramming\TCP.IP_ClientServer_Chat\TCP.IP_ClientServer_Chat\obj\Debug\net6.0\Client.dll
+D:\PortFolio\ServerProgramming\TCP.IP_ClientServer_Chat\TCP.IP_ClientServer_Chat\obj\Debug\net6.0\refint\Client.dll
+D:\PortFolio\ServerProgramming\TCP.IP_ClientServer_Chat\TCP.IP_ClientServer_Chat\obj\Debug\net6.0\Client.pdb
+D:\PortFolio\ServerProgramming\TCP.IP_ClientServer_Chat\TCP.IP_ClientServer_Chat\obj\Debug\net6.0\Client.genruntimeconfig.cache
+D:\PortFolio\ServerProgramming\TCP.IP_ClientServer_Chat\TCP.IP_ClientServer_Chat\obj\Debug\net6.0\ref\Client.dll
