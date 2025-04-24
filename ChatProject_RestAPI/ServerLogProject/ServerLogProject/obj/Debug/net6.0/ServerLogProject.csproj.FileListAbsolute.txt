@@ -1,0 +1,60 @@
+D:\202034011\ServerLogProject\ServerLogProject\bin\Debug\net6.0\ServerLogProject.exe
+D:\202034011\ServerLogProject\ServerLogProject\bin\Debug\net6.0\ServerLogProject.deps.json
+D:\202034011\ServerLogProject\ServerLogProject\bin\Debug\net6.0\ServerLogProject.runtimeconfig.json
+D:\202034011\ServerLogProject\ServerLogProject\bin\Debug\net6.0\ServerLogProject.dll
+D:\202034011\ServerLogProject\ServerLogProject\bin\Debug\net6.0\ServerLogProject.pdb
+D:\202034011\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.csproj.AssemblyReference.cache
+D:\202034011\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\202034011\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.AssemblyInfoInputs.cache
+D:\202034011\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.AssemblyInfo.cs
+D:\202034011\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.csproj.CoreCompileInputs.cache
+D:\202034011\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.dll
+D:\202034011\ServerLogProject\ServerLogProject\obj\Debug\net6.0\refint\ServerLogProject.dll
+D:\202034011\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.pdb
+D:\202034011\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.genruntimeconfig.cache
+D:\202034011\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ref\ServerLogProject.dll
+C:\Users\Master\Downloads\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\bin\Debug\net6.0\ServerLogProject.exe
+C:\Users\Master\Downloads\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\bin\Debug\net6.0\ServerLogProject.deps.json
+C:\Users\Master\Downloads\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\bin\Debug\net6.0\ServerLogProject.runtimeconfig.json
+C:\Users\Master\Downloads\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\bin\Debug\net6.0\ServerLogProject.dll
+C:\Users\Master\Downloads\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\bin\Debug\net6.0\ServerLogProject.pdb
+C:\Users\Master\Downloads\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.csproj.AssemblyReference.cache
+C:\Users\Master\Downloads\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Downloads\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.AssemblyInfoInputs.cache
+C:\Users\Master\Downloads\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.AssemblyInfo.cs
+C:\Users\Master\Downloads\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.csproj.CoreCompileInputs.cache
+C:\Users\Master\Downloads\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.dll
+C:\Users\Master\Downloads\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\obj\Debug\net6.0\refint\ServerLogProject.dll
+C:\Users\Master\Downloads\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.pdb
+C:\Users\Master\Downloads\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.genruntimeconfig.cache
+C:\Users\Master\Downloads\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ref\ServerLogProject.dll
+C:\Users\Master\Desktop\유한\3학년 1학기\서버프로그래밍\기말고사 서버유니티 클라이언트\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\bin\Debug\net6.0\ServerLogProject.exe
+C:\Users\Master\Desktop\유한\3학년 1학기\서버프로그래밍\기말고사 서버유니티 클라이언트\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\bin\Debug\net6.0\ServerLogProject.deps.json
+C:\Users\Master\Desktop\유한\3학년 1학기\서버프로그래밍\기말고사 서버유니티 클라이언트\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\bin\Debug\net6.0\ServerLogProject.runtimeconfig.json
+C:\Users\Master\Desktop\유한\3학년 1학기\서버프로그래밍\기말고사 서버유니티 클라이언트\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\bin\Debug\net6.0\ServerLogProject.dll
+C:\Users\Master\Desktop\유한\3학년 1학기\서버프로그래밍\기말고사 서버유니티 클라이언트\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\bin\Debug\net6.0\ServerLogProject.pdb
+C:\Users\Master\Desktop\유한\3학년 1학기\서버프로그래밍\기말고사 서버유니티 클라이언트\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\유한\3학년 1학기\서버프로그래밍\기말고사 서버유니티 클라이언트\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\유한\3학년 1학기\서버프로그래밍\기말고사 서버유니티 클라이언트\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\유한\3학년 1학기\서버프로그래밍\기말고사 서버유니티 클라이언트\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.AssemblyInfo.cs
+C:\Users\Master\Desktop\유한\3학년 1학기\서버프로그래밍\기말고사 서버유니티 클라이언트\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\유한\3학년 1학기\서버프로그래밍\기말고사 서버유니티 클라이언트\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.dll
+C:\Users\Master\Desktop\유한\3학년 1학기\서버프로그래밍\기말고사 서버유니티 클라이언트\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\obj\Debug\net6.0\refint\ServerLogProject.dll
+C:\Users\Master\Desktop\유한\3학년 1학기\서버프로그래밍\기말고사 서버유니티 클라이언트\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.pdb
+C:\Users\Master\Desktop\유한\3학년 1학기\서버프로그래밍\기말고사 서버유니티 클라이언트\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.genruntimeconfig.cache
+C:\Users\Master\Desktop\유한\3학년 1학기\서버프로그래밍\기말고사 서버유니티 클라이언트\서버 유니티 클라이언트\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ref\ServerLogProject.dll
+D:\Git\Portfolio Git\ProgrammingCode\ChatProject_RestAPI\ServerLogProject\ServerLogProject\bin\Debug\net6.0\ServerLogProject.exe
+D:\Git\Portfolio Git\ProgrammingCode\ChatProject_RestAPI\ServerLogProject\ServerLogProject\bin\Debug\net6.0\ServerLogProject.deps.json
+D:\Git\Portfolio Git\ProgrammingCode\ChatProject_RestAPI\ServerLogProject\ServerLogProject\bin\Debug\net6.0\ServerLogProject.runtimeconfig.json
+D:\Git\Portfolio Git\ProgrammingCode\ChatProject_RestAPI\ServerLogProject\ServerLogProject\bin\Debug\net6.0\ServerLogProject.dll
+D:\Git\Portfolio Git\ProgrammingCode\ChatProject_RestAPI\ServerLogProject\ServerLogProject\bin\Debug\net6.0\ServerLogProject.pdb
+D:\Git\Portfolio Git\ProgrammingCode\ChatProject_RestAPI\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.csproj.AssemblyReference.cache
+D:\Git\Portfolio Git\ProgrammingCode\ChatProject_RestAPI\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Portfolio Git\ProgrammingCode\ChatProject_RestAPI\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.AssemblyInfoInputs.cache
+D:\Git\Portfolio Git\ProgrammingCode\ChatProject_RestAPI\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.AssemblyInfo.cs
+D:\Git\Portfolio Git\ProgrammingCode\ChatProject_RestAPI\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.csproj.CoreCompileInputs.cache
+D:\Git\Portfolio Git\ProgrammingCode\ChatProject_RestAPI\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.dll
+D:\Git\Portfolio Git\ProgrammingCode\ChatProject_RestAPI\ServerLogProject\ServerLogProject\obj\Debug\net6.0\refint\ServerLogProject.dll
+D:\Git\Portfolio Git\ProgrammingCode\ChatProject_RestAPI\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.pdb
+D:\Git\Portfolio Git\ProgrammingCode\ChatProject_RestAPI\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ServerLogProject.genruntimeconfig.cache
+D:\Git\Portfolio Git\ProgrammingCode\ChatProject_RestAPI\ServerLogProject\ServerLogProject\obj\Debug\net6.0\ref\ServerLogProject.dll
